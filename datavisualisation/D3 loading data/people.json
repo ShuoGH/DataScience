@@ -3,24 +3,25 @@
     "id" : "001",
     "name" : "Alice",
     "favourite colour" : "green (#00FF00)",
-    "number of pets" : 4​,
+    "number of pets" : 4
+
   },
   {
     "id" : "002",
     "name" : "Bob",
     "favourite colour" : "yellow (#FFFF00)",
-    "number of pets" : 0,
-  },
+    "number of pets" : 0
+  }, 
   {
     "id" : "003",
     "name" : "Charlie",
     "favourite colour" : "blue (#0000FF)",
-    "number of pets" : 2,
+    "number of pets" : 2
   },
   {
     "id" : "004",
     "name" : "Debra",
     "favourite colour" : "red (#FF0000)",
-    "number of pets" : 0,
+    "number of pets" : 0
   }
 ]
