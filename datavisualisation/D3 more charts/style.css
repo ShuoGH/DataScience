@@ -1,0 +1,7 @@
+/* this is for the lab 5 in week 5*/
+.legend {                                                   /* NEW */
+font-size: 12px;                                          /* NEW */
+}                                                           /* NEW */
+rect {                                                      /* NEW */
+stroke-width: 2;                                          /* NEW */
+}                                                           /* NEW */
