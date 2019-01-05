@@ -1,0 +1,18 @@
+git-hint
+
+how to use git to clone:
+	`git clone xx`
+	`cd xx`
+
+when you check the `git branch`, it just show a master branch.
+In this case, some branches are hidden.
+To list them all:
+	`git branch -a`
+
+If you want to checkout to a branch directly, just use
+	`git checkout origin/xxbranch`
+
+To make a local branch,
+	`git checkout -b xx origin/xxbranch`
+	or use `git checkout -t origin/xxbranch`, it will create a branch with same name.
+	or use `fetch`, `git fetch origin xxbranch:xx` (in this way, it won't checkout to the new branch automatically)
