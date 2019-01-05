@@ -16,3 +16,7 @@ To make a local branch,
 	`git checkout -b xx origin/xxbranch`
 	or use `git checkout -t origin/xxbranch`, it will create a branch with same name.
 	or use `fetch`, `git fetch origin xxbranch:xx` (in this way, it won't checkout to the new branch automatically)
+
+To rm the local file using git:
+	`git rm xx `
+	`git commit -m "xxxx"`
